@@ -55,10 +55,10 @@ p, li {
 }
 
 .skin {
+    display: flex;
     position: absolute;
     bottom: 0;
     width: 12%;
-    margin-bottom: -1%;
     margin-left: 2%;
 }
 
