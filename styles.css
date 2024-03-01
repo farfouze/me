@@ -36,7 +36,7 @@ header {
     background-color: rgb(17, 17, 17);
     display: flex;
     align-items: center;
-    height: 10vh;
+    max-height: 19%;
     border-bottom: 2px solid rgb(66, 45, 75);
 }
 
@@ -58,7 +58,7 @@ p, li {
 .skin {
     position: absolute;
     bottom: 0;
-    width: 7vh;
+    width: 10%;
     margin-left: 2%;
 }
 
