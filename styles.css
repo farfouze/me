@@ -40,13 +40,13 @@ header {
 }
 
 h1 {
-    font-size: 70%;
+    font-size: 120%;
     margin-left: 4%;
 }
 
 p, li {
     color: rgb(114, 100, 128);
-    font-size: 30%;
+    font-size: 100%;
 }
 
 .me {
@@ -72,7 +72,7 @@ footer {
 
 h2 {
     color: rgb(76, 55, 85);
-    font-size: 50%;
+    font-size: 100%;
 }
 
 .tag {
