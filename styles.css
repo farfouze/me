@@ -110,7 +110,7 @@ li {
 }
 
 a {
-    text-decoration: none;
+    text-decoration-color: white;
 }
 a:hover {
     background-color: rgba(133, 0, 173, 0.212);
