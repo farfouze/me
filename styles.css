@@ -36,6 +36,7 @@ header {
     display: flex;
     align-items: center;
     max-height: 19%;
+    min-height: 12%;
     border-bottom: 2px solid rgb(66, 45, 75);
 }
 
