@@ -42,7 +42,7 @@ header {
 
 h1 {
     font-size: 160%;
-    margin-left: 4%;
+    margin-left: 19%;
 }
 
 p, li {
@@ -55,7 +55,6 @@ p, li {
 }
 
 .skin {
-    display: flex;
     position: absolute;
     bottom: 0;
     width: 12%;
