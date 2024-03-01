@@ -1,0 +1,101 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(10, 10, 10);
+}
+
+::selection {
+    color: rgba(221, 221, 221, 0.616);
+    background: rgba(133, 0, 173, 0.384);
+}
+
+header {
+    padding: 1px;
+    background-color: rgb(15, 15, 15);
+    display: flex;
+    align-items: center;
+    max-height: 150px;
+    border-bottom: 2px solid rgb(66, 45, 75);
+}
+
+h1 {
+    font-size: 50px;
+    margin-left: 10px;
+    margin-left: 4%;
+}
+
+p, li {
+    color: rgb(114, 100, 128);
+    font-size: 20px;
+}
+
+.me {
+    margin-top: 40px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.skin {
+    display: block;
+    max-height: 100px;
+    margin-bottom: -25px;
+    margin-left: 30px;
+}
+
+footer {
+    background-color: rgb(15, 15, 15);
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    color: #fff;
+}
+
+h2 {
+    color: rgb(76, 55, 85);
+    font-size: 25px;
+}
+
+.tag {
+    color: rgb(102, 84, 110);
+    font-style: italic;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.rainbow_text_animated {
+    background: linear-gradient(to right, #ff3399, #6666ff);
+    background-clip: text;
+    color: transparent;
+    animation: rainbow_animation 6s ease-in-out infinite;
+    background-size: 400% 100%;
+}
+
+@keyframes rainbow_animation {
+    0%,100% {
+        background-position: 0 0;
+    }
+
+    50% {
+        background-position: 100% 0;
+    }
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+a {
+    text-decoration: none;
+}
+a:hover {
+    background-color: rgba(133, 0, 173, 0.212);
+}
+
+.medias {
+    margin-bottom: 100px;
+}
