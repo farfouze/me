@@ -49,13 +49,10 @@ p, li {
     color: rgb(114, 100, 128);
     font-size: 100%;
 }
-li {
-    margin-left: -3%;
-}
 
 .me {
     margin-top: 5%;
-    margin-left: 7%;
+    margin-left: 9%;
 }
 
 .skin {
@@ -109,10 +106,11 @@ h2 {
 
 li {
     margin-bottom: 0,5%;
+    margin-left: -3%;
 }
 
 .subtitle {
-    margin-left: -2%;
+    margin-left: -4%;
 }
 
 a {
