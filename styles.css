@@ -31,7 +31,6 @@ body {
 }
 
 header {
-    position: relative;
     padding: 1px;
     background-color: rgb(15, 15, 15);
     display: flex;
@@ -88,6 +87,7 @@ h2 {
 }
 
 .rainbow_text_animated {
+    position: relative;
     background: linear-gradient(to right, #ff3399, #6666ff);
     background-clip: text;
     color: transparent;
