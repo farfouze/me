@@ -35,32 +35,29 @@ header {
     background-color: rgb(15, 15, 15);
     display: flex;
     align-items: center;
-    max-height: 150px;
+    max-height: 6%;
     border-bottom: 2px solid rgb(66, 45, 75);
 }
 
 h1 {
-    font-size: 50px;
-    margin-left: 10px;
+    font-size: 5%;
     margin-left: 4%;
 }
 
 p, li {
     color: rgb(114, 100, 128);
-    font-size: 20px;
+    font-size: 1.3%;
 }
 
 .me {
-    margin-top: 40px;
-    margin-left: 50px;
-    margin-right: 50px;
+    margin: 5%;
 }
 
 .skin {
     display: block;
-    max-height: 100px;
-    margin-bottom: -27px;
-    margin-left: 30px;
+    max-height: 5%;
+    margin-bottom: -1%;
+    margin-left: 2%;
 }
 
 footer {
@@ -75,7 +72,7 @@ footer {
 
 h2 {
     color: rgb(76, 55, 85);
-    font-size: 25px;
+    font-size: 3%;
 }
 
 .tag {
@@ -106,7 +103,7 @@ h2 {
 }
 
 li {
-    margin-bottom: 5px;
+    margin-bottom: 0,5%;
 }
 
 a {
@@ -114,8 +111,4 @@ a {
 }
 a:hover {
     background-color: rgba(133, 0, 173, 0.212);
-}
-
-.medias {
-    margin-bottom: 100px;
 }
