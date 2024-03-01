@@ -56,7 +56,6 @@ p, li {
 .skin {
     positon: absolute;
     bottom: 0;
-    display: flex;
     width: 12%;
     margin-bottom: -1%;
     margin-left: 2%;
