@@ -2,6 +2,4 @@
 _I created the page for fun.
 Don't take it seriously ;)_
 
-You can contact me via Discord, __@farfouze__.
-
-Note: I have to fix the header's image.
+You can contact me via Discord, __@farfouze__. If you have suggestions or tips! :)
