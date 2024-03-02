@@ -3,4 +3,4 @@
 
 You can contact me via Discord, __@farfouze__. If you have any suggestions, tips or anything else to say! :)
 
-Link: https://farfouze.github.io/me/
+#### Link: https://farfouze.github.io/me/
